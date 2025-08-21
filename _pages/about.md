@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Exploring AI, Biosignals, and Accessible Technology
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+  image_circular: false
+  more_info:
+news: false
+selected_papers: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I’m SJ. I’ve always been fascinated by the human brain and how much we still have to discover about it. My work focuses on using **non-invasive biological sensors** to interpret brain and muscle activity, and on building artificial intelligence that can make those signals useful in everyday life.  
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+One of my main projects, [EXG-Hands](https://github.com/SjDuque/EXG-Hands), uses these sensors to control a robotic hand. I’m developing both the hardware and the software: amplifying minute bio-electrical signals and feeding the information into a machine learning system that translates them into movement. To support this, I’ve also been creating open, customizable EEG and EMG sensors that make it easier to experiment with brain and muscle signals outside of expensive labs. The goal is to create a low-cost alternative to prosthetics while showing how accessible tools can open the door for research and innovation in brain-computer interfaces.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of this work, I like experimenting with creative projects such as genetic algorithms, raycasting, and sound synthesis. For me, they’re a way to learn, explore new ideas, and keep pushing the boundary of what technology can do.  
+
+I studied **computer science at the University of Texas at Austin**, which gave me the technical foundation to explore areas like machine learning, signal processing, and embedded systems.  
